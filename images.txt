@@ -1,1 +1,1 @@
-andrewlegkii/postgers:latest
+postgres:15.10
