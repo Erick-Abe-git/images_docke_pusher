@@ -4,7 +4,6 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 #docker.getcollate.io/openmetadata/server:1.5.3
 #docker.getcollate.io/openmetadata/ingestion:1.5.3
-
 #eosphorosai/dbgpt:latest
 #---
 langgenius/dify-api:1.0.0-beta.1
@@ -35,12 +34,6 @@ langgenius/dify-plugin-daemon:0.0.1-local
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
-#---
-
-
-
-
-
 #langgenius/dify-api:0.8.0
 #langgenius/dify-web:0.8.0
 #postgres:15-alpine
