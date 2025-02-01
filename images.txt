@@ -3,4 +3,3 @@ postgres:15.10
 redis:7.2
 postgres:16.6
 nginx:stable-perl
-golang：1.235
